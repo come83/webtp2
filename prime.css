@@ -1,0 +1,59 @@
+/* Body styles */
+body {
+  background-color: #003366;
+  background-image: url(primevertical.png);
+}
+
+/* Wrapper styles */
+#wrapper {
+  width: 680px;
+  margin: 0 auto;
+  min-width: 680px;
+  background-color: #ffffcc;
+  color: #003300;
+  padding-left: 10px;
+}
+
+/* Left column styles */
+#leftcolumn {
+  float: left;
+  width: 150px;
+}
+
+/* Navigation styles */
+#leftcolumn a {
+  display: block;
+  margin: 15px 0 15px 15px;
+}
+
+/* Right column styles */
+#rightcolumn {
+  margin-left: 150px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+}
+
+/* Property image styles */
+.property {
+  float: left;
+}
+
+/* Label styles */
+.labelCol {
+  float: left;
+  width: 100px;
+  text-align: right;
+  padding-right: 10px;
+}
+
+/* Row styles */
+.myRow {
+  padding-bottom: 20px;
+}
+
+/* Submit button styles */
+.mySubmit {
+  margin: 10px;
+}
+
+
